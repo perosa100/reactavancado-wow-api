@@ -36,7 +36,7 @@
       "required": true,
       "default": 0
     },
-    "release_data": {
+    "release_date": {
       "type": "date",
       "required": false
     },

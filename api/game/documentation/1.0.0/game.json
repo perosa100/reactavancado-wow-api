@@ -615,7 +615,7 @@
             "type": "number",
             "default": 0
           },
-          "release_data": {
+          "release_date": {
             "type": "string",
             "format": "date"
           },
@@ -941,7 +941,7 @@
             "type": "number",
             "default": 0
           },
-          "release_data": {
+          "release_date": {
             "type": "string",
             "format": "date"
           },

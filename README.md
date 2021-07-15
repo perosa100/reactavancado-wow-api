@@ -16,8 +16,11 @@ yarn develop --watch-admin
 
 curl -X POST http://localhost:1337/games/populate
 
+
+curl -X POST http://localhost:1337/games/populate\?availability\=coming\&sort\=popularity\?page\=1
 //para pegar coisas de sites
 yarn add JSDOM
 
 //para criar slug retira acento e tal...
 yarn add slugify
+ 

@@ -560,7 +560,7 @@
                 "price": {
                   "type": "number"
                 },
-                "release_data": {
+                "release_date": {
                   "type": "string"
                 },
                 "rating": {
