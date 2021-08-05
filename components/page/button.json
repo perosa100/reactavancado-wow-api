@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_buttons",
+  "info": {
+    "name": "button",
+    "icon": "assistive-listening-systems"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true,
+      "default": "buy now"
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
